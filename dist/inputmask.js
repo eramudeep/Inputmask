@@ -999,7 +999,7 @@
                     default: a
                 }, r = i(8711), o = i(4713);
                 n.default.extendDefinitions({
-                    A: {
+                    "@": {
                         validator: "[A-Za-z\u0410-\u044f\u0401\u0451\xc0-\xff\xb5]",
                         casing: "upper"
                     },
