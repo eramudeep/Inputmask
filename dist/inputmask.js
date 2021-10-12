@@ -100,10 +100,10 @@
                         validator: "[0-9\uff10-\uff19]",
                         definitionSymbol: "*"
                     },
-                    a: {
+                    /*a: {
                         validator: "[A-Za-z\u0410-\u044f\u0401\u0451\xc0-\xff\xb5]",
                         definitionSymbol: "*"
-                    },
+                    },*/
                     "*": {
                         validator: "[0-9\uff10-\uff19A-Za-z\u0410-\u044f\u0401\u0451\xc0-\xff\xb5]"
                     }
