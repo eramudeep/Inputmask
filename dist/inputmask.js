@@ -771,10 +771,7 @@
                     default: i
                 }, r = a(8711), o = a(4713);
                 n.default.extendDefinitions({
-                    "@": {
-                        validator: "[A-Za-z\u0410-\u044f\u0401\u0451\xc0-\xff\xb5]",
-                        casing: "upper"
-                    },
+                     
                     "%": {
                         validator: "[0-9A-Za-z\u0410-\u044f\u0401\u0451\xc0-\xff\xb5]",
                         casing: "upper"
